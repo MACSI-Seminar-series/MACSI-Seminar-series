@@ -10,6 +10,7 @@ toc-expand: true
 ```{r}
 library(readxl)
 library(dplyr)
+library(readr)
 library(stringr)
 library(lubridate)
 library(glue)
