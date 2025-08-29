@@ -1,0 +1,15 @@
+{
+  "hash": "3648bae336faeb5119fca7ff67e81a25",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Seminar Abstract\"\nformat: \n  html:\n    embed-resources: true\neditor: visual\nexecute:\n  engine: knitr\nparams:\n  presenter: \"default\"\n  affiliation: \"default\"\n  date_fancy: \"default\"\n  date: \"default\"\n  time: \"default\"\n  departmental_contact: \"default\"\n  title: \"default\"\n  abstract: \"default\"\n  seminar_table: \"default\"\n---\n\n\n::: {.cell}\n\n:::\n\n\n## Seminar by default.\n\nA MACSI seminar at the Department of Mathematics and Statistics, University of Limerick, will be given by default (default) on default. \n\nThe seminar will be held in person in the Mathematics and Statistics seminar room A2002, Main Building.\n\nDate: default at default\n\nSpeaker: default\n\nHost: \n\nTitle: default\n\nAbstract: default\n\nIf you have any questions regarding this seminar, please direct them to David O’Sullivan (david.osullivan\\@ul.ie) or Mehakpreet Singh (mehakpreet.singh\\@ul.ie). The schedule for upcoming seminars can be found here: (https://www.ul.ie/macsi/seminars).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

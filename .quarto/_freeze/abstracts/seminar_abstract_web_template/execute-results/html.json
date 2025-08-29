@@ -1,0 +1,19 @@
+{
+  "hash": "b37bc3fa18afa06a042f04bbe0d9fa82",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Seminar Abstract\"\nformat: \n  html:\n    embed-resources: true\neditor: visual\nexecute:\n  engine: knitr\nparams:\n  presenter: \"default\"\n  affiliation: \"default\"\n  date_fancy: \"default\"\n  date: \"default\"\n  time: \"default\"\n  departmental_contact: \"default\"\n  title: \"default\"\n  abstract: \"default\"\n  seminar_table: \"default\"\n---\n\n::: {.cell}\n\n:::\n\n\n\n## Seminar by Theresa Smith.\n\nA MACSI seminar at the Department of Mathematics and Statistics, University of Limerick, will be given by Theresa Smith (University of Bath) on Thu 23 Oct 2025.\n\nThe seminar will be held in person in the Mathematics and Statistics seminar room A2002, Main Building.\n\nDate: 2025-10-23 at 11am\n\nSpeaker: Theresa Smith\n\nHost: James Sweeney\n\nTitle: TBC\n\nAbstract: TBC\n\nIf you have any questions regarding this seminar, please direct them to David O’Sullivan (david.osullivan\\@ul.ie) or Mehakpreet Singh (mehakpreet.singh\\@ul.ie). The schedule for upcoming seminars can be found here: (https://www.ul.ie/macsi/seminars).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

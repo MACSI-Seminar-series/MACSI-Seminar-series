@@ -1,0 +1,55 @@
+{
+  "index.qmd": {
+    "index.html": "1e4a243f"
+  },
+  "Seminar_emails/email_html_tables.qmd": {
+    "email_html_tables.html": "506e0cbf"
+  },
+  "Seminar_emails/email_template_with_sch.qmd": {
+    "email_template_with_sch.html": "c7618b66"
+  },
+  "abstracts/seminar_abstract_web_template.qmd": {
+    "abtract_1.html": "6438c6d9",
+    "abtract_3.html": "38036909",
+    "abtract_5.html": "7cdcffed",
+    "abtract_6.html": "95b108a3",
+    "abtract_7.html": "2401b402"
+  },
+  "seminar_abstract_web_template.qmd": {
+    "abtract_1.html": "3ea8c6cd",
+    "abtract_2.html": "7ea02727",
+    "abtract_3.html": "98f0c984",
+    "seminar_abstract_web_template.html": "99809220",
+    "2025-09-11-hlib-husarov-eberhard-mayerhofer-an-algorithm-for-the-product-sum-equality.html": "2ae03a17",
+    "2025-09-26-nico-gray-coupling-rheology-and-segregation-in-granular-flows.html": "02124404",
+    "2025-10-09-lisa-mcfetridge-tbc.html": "0600f6f7",
+    "2025-10-16-dingjia-cao-a-wavelet-lifting-approach-for-spatial-network-data.html": "b8fed697",
+    "2025-10-23-theresa-smith-tbc.html": "e72aead8",
+    "2025-11-06-yanghong-huang-tbc.html": "24c98168",
+    "2025-11-13-lea-kaufmann-factor-selection-and-levels-fusion-in-high-dimensional-logistic-regression.html": "cd3f0ac2",
+    "2025-11-20-alison-o-connor-tbc.html": "7f1fadbd",
+    "2025-12-04-silvia-d-angelo-tbc.html": "d700cbaa",
+    "abstracts": "0987d726"
+  },
+  "abstracts/index.qmd": {
+    "index.html": "389dcc2c"
+  },
+  "index.knit.md": {
+    "index.knit.html": "32f9073c"
+  },
+  "create_AY24-25_sem_2_timetable.qmd": {
+    "create_AY24-25_sem_2_timetable.html": "49cdb63c"
+  },
+  "create_AY25-26_sem_1_timetable.qmd": {
+    "create_AY25-26_sem_1_timetable.html": "2f9972bc"
+  },
+  "create_AY24-25_sem_1_timetable.qmd": {
+    "create_AY24-25_sem_1_timetable.html": "0b743c88"
+  },
+  "create_AY23-24_sem_2_timetable.qmd": {
+    "create_AY23-24_sem_2_timetable.html": "411b51ba"
+  },
+  "create_AY25-26_sem_2_timetable.qmd": {
+    "create_AY25-26_sem_2_timetable.html": "88459df5"
+  }
+}
