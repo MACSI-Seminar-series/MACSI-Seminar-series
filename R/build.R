@@ -14,7 +14,7 @@ source("R/helpers.R")
 
 create_timetable_csv <- function(output_file = "data/AY25-26_sem_1_timetable.csv", 
                                  excel_sheet = "AY2025-2026 Sem 1",
-                                 excel_path = "data/seminars.xlsx"){
+                                 excel_path = "data/Seminars.xlsx"){
 
   details <- read_excel(path = excel_path, sheet = excel_sheet, skip = 1) |>
     clean_names() |>
@@ -59,6 +59,7 @@ output_file = "data/AY23-24_sem_2_timetable.csv"
 excel_sheet = "AY2023-2024 Sem 2"
 excel_path = "data/seminars.xlsx"
 create_timetable_csv(output_file, excel_sheet, excel_path)
+
 
 
 
