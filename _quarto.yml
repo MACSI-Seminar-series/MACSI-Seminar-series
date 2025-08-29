@@ -10,6 +10,7 @@ website:
   # site-url: https://username.github.io/MACSISeminarSeries
   # base-url: /MACSISeminarSeries/
   navbar:
+    collapse-below: lg
     left:
       - text: "AY25-26 Semesters 1 (current)"
         file: index.qmd
@@ -28,4 +29,8 @@ format:
     theme: flatly
     toc: true
     toc-expand: true
+    anchor-sections: true
+    smooth-scroll: true
+    df-print: paged       # nicer tables by default
+    css: styles.css       # <- add this file
     include-before-body: _partials/banner.html
