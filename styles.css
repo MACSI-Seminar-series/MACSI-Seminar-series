@@ -20,5 +20,4 @@ img { max-width: 100%; height: auto; }
 /* Wrap long code/links instead of overflowing */
 pre, code { white-space: pre-wrap; }
 
-/* Make wide tables scroll horizontally instead of squishing */
-.table-responsive { overflow-x: auto; }
+

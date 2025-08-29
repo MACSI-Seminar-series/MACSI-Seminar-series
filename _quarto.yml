@@ -31,6 +31,5 @@ format:
     toc-expand: true
     anchor-sections: true
     smooth-scroll: true
-    df-print: paged       # nicer tables by default
     css: styles.css       # <- add this file
     include-before-body: _partials/banner.html
