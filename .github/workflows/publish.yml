@@ -48,7 +48,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"   # or pin like "1.5.57"
+          version: "release"   # or pin like "1.5.57"
 
       # --- Pre-build data (your step 1) ---
       - name: Pre-build create timetable CSVs
